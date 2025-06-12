@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\TZ\tz\bin\Debug\net8.0\tz.exe
+C:\Users\ASUS\Desktop\TZ\tz\bin\Debug\net8.0\tz.deps.json
+C:\Users\ASUS\Desktop\TZ\tz\bin\Debug\net8.0\tz.runtimeconfig.json
+C:\Users\ASUS\Desktop\TZ\tz\bin\Debug\net8.0\tz.dll
+C:\Users\ASUS\Desktop\TZ\tz\bin\Debug\net8.0\tz.pdb
+C:\Users\ASUS\Desktop\TZ\tz\obj\Debug\net8.0\tz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\TZ\tz\obj\Debug\net8.0\tz.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\TZ\tz\obj\Debug\net8.0\tz.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\TZ\tz\obj\Debug\net8.0\tz.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\TZ\tz\obj\Debug\net8.0\tz.dll
+C:\Users\ASUS\Desktop\TZ\tz\obj\Debug\net8.0\refint\tz.dll
+C:\Users\ASUS\Desktop\TZ\tz\obj\Debug\net8.0\tz.pdb
+C:\Users\ASUS\Desktop\TZ\tz\obj\Debug\net8.0\tz.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\TZ\tz\obj\Debug\net8.0\ref\tz.dll
